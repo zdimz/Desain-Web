@@ -1,0 +1,18 @@
+.card-body {
+    box-shadow: 5px 5px grey;
+    border-radius: 5%;
+}
+
+fa-arrow-right {
+    background-color: white;
+}
+
+.layanankami {
+    font-family: 'Oswald', sans-serif;
+    font-size: 50px;
+}
+
+.text-center {
+    font-family: 'Oswald', sans-serif;
+    font-size: 30px;
+}
